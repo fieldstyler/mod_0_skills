@@ -1,4 +1,4 @@
-Object: Margarita
+> Object: Margarita
 
 Attributes:
 
