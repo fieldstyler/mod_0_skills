@@ -1,0 +1,13 @@
+1. food = "Pizza"
+2. is_delicious = true
+3. food = "Biscuits and Gravy"
+4. num2 = 18
+5. num7 = 19
+6. quotient = num7/num2
+7. songs = ["Shut Up and Dance", "Africa", "Party In the U.S.A."]
+
+9. A = songs.pop(2)
+
+puts "#{A}"
+
+10. puts food.length
